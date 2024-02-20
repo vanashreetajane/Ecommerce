@@ -47,7 +47,7 @@
 .nav-login-cart{
     display: flex;
     align-items: center;
-    gap: 50px;
+    gap: 8px;
 
 }
 
@@ -58,7 +58,7 @@
     border: 1px solid #7a7a7a;
     border-radius: 75px;
     color: #515151;
-    font-size: 20px;
+    font-size: 15px;
     font-style:oblique;
     font-weight:500 ;
     background-color: white;
@@ -78,7 +78,7 @@
     margin-top: -35px;
     margin-left: -55px;
     border-radius: 11px;
-    font-size: 14px;
+    font-size: 15px;
     background-color: red;
     color: white;
 
