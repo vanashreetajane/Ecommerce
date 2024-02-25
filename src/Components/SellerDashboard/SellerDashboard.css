@@ -1,0 +1,55 @@
+/* SellerDashboard.css */
+
+.seller-dashboard {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.seller-dashboard h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.upload-section {
+  margin-top: 20px;
+}
+
+.upload-section input[type="file"] {
+  display: none;
+}
+
+.upload-section label {
+  display: inline-block;
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 15px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.upload-section label:hover {
+  background-color: #0056b3;
+}
+
+.upload-section button {
+  margin-left: 10px;
+  padding: 10px 15px;
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.upload-section button:hover {
+  background-color: #218838;
+}
+
+.upload-section img {
+  max-width: 200px; 
+  max-height: 200px; 
+  margin-top: 10px; 
+}
